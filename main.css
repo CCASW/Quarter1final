@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {background: beige; 
+	font: 100% Georgia}
+	#mainHeader h1 {font:180% courier; color:royalblue; padding: 0 60px}
+	#mainHeader h2 {font:100% courier; color:#7f7f7f; padding: 0 60px}
+	#wrapper {width: 1300px; margin: 0 auto; padding: 0 50px; text-align: left;}
+	#mainHeader {height: 185px; background: url(images/logo.png) no-repeat 0px center; 
+	padding:75px 0 0 300px; position: relative; border-bottom: 2px solid #7f7f7f;
+	margin-bottom: 16px}
+	#mainHeader div {margin-top: 16px}
+	#mainHeader ul {list-style:none; float: left;}
+	#mainHeader ul li {float: left}
+	#mainHeader ul li a {font-family:Helvectia; font-size: 20px; color:#000000; 
+	padding: 0 15px; border-right: 1px solid #000000; text-decoration:none;}
+	#mainHeader ul a:hover {color:#5c9eff; font-size: 25px;}
+	#picture {height: 185px; background: url(images/nameproject.png) no-repeat 25px center;}
+<<<<<<< HEAD
+	#border {border-bottom:2px solid #7f7f7f}
+	#border {border-bottom:4px solid #000000}
+	#content h3 {margin-bottom:0px}
+	#content h2 {text-align:center}
+	#content p {line-height:1.5; width:650px}
+=======
+	#border {border-bottom:2px solid #7f7f7f;}
+>>>>>>> origin/master
+	
+	
